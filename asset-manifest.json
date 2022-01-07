@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/lfg-faucet.tk/static/css/main.647078a0.css",
-    "main.js": "/lfg-faucet.tk/static/js/main.23375cfc.js",
-    "static/js/787.2f730aa8.chunk.js": "/lfg-faucet.tk/static/js/787.2f730aa8.chunk.js",
-    "index.html": "/lfg-faucet.tk/index.html",
-    "main.647078a0.css.map": "/lfg-faucet.tk/static/css/main.647078a0.css.map",
-    "main.23375cfc.js.map": "/lfg-faucet.tk/static/js/main.23375cfc.js.map",
-    "787.2f730aa8.chunk.js.map": "/lfg-faucet.tk/static/js/787.2f730aa8.chunk.js.map"
+    "main.css": "./static/css/main.647078a0.css",
+    "main.js": "./static/js/main.7af89448.js",
+    "static/js/787.2f730aa8.chunk.js": "./static/js/787.2f730aa8.chunk.js",
+    "index.html": "./index.html",
+    "main.647078a0.css.map": "./static/css/main.647078a0.css.map",
+    "main.7af89448.js.map": "./static/js/main.7af89448.js.map",
+    "787.2f730aa8.chunk.js.map": "./static/js/787.2f730aa8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.647078a0.css",
-    "static/js/main.23375cfc.js"
+    "static/js/main.7af89448.js"
   ]
 }
